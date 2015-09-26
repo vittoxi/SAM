@@ -1,0 +1,2 @@
+# sam
+Sam is an extension programming language designed to support general procedural programming with data description facilities. Sam also offers good support for object-oriented programming, functional programming, and data-driven programming. Sam is intended to be used as a powerful, lightweight, embeddable scripting language for any program that needs one. Sam is implemented as a library, written in clean C, the common subset of Standard C and C++.
